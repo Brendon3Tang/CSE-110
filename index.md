@@ -12,13 +12,24 @@
 #Academic career
 - [x] Foothill College
 - [x] De Anza College (for a GE course)
-- [] University of California, San Diego
+- [ ] University of California, San Diego
 
 #Hobbies
 - Watching movies, animes, short videos in [bilibili](www.bilibili.com)
 - Working out, jogging
 - Hiking, traveling to national parks
 
+
+##Quote Code (for Lab 1)
+Some basic Unix commands:
+```
+chmod u+x a.sh
+touch 
+rm -d file
+rm -r file
+```
+
+##Section Links (for Lab 1)
 
 
 
