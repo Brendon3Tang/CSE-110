@@ -10,9 +10,9 @@
 > he best time to plant a tree was 20 years ago. The second best time is now.
 
 #Academic career
-- [x]Foothill College
-- [x]De Anza College (for a GE course)
-- []University of California, San Diego
+[x]Foothill College
+[x]De Anza College (for a GE course)
+[]University of California, San Diego
 
 #Hobbies
 - Watching movies, animes, short videos in [bilibili](www.bilibili.com)
