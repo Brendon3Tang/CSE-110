@@ -1,4 +1,4 @@
-[Personal picture](./photo.jpg)
+![Personal picture](./photo.png)
 
 #Who am I
 
@@ -30,7 +30,7 @@ rm -r file
 ```
 
 ##Section Links (for Lab 1)
-
+[Link to my personal introduction](Who am)
 
 
 
