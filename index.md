@@ -1,4 +1,4 @@
-![Personal picture](./photo.png)
+![Personal picture](./photo.jpg)
 
 #Who am I
 
