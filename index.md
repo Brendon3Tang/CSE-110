@@ -30,7 +30,7 @@ rm -r file
 ```
 
 ##Section Links (for Lab 1)
-[Link to my personal introduction](Who am)
+[Link to my personal introduction](Who am I)
 
 
 
