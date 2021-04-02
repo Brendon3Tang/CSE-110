@@ -7,7 +7,7 @@
 **As a programmer, I have learnt Java, C++, Assembly Language. I am learning HTML and CSS by my own right now. A lot of things happened since I jumped into upper divison courses, and I am struggling with it. Lacking practical experience in my career and coding ability are my current shortcomings, but I am doing my best to be a better programmer.**
 
 **There is a proverb that I really agree with:**
-> he best time to plant a tree was 20 years ago. The second best time is now.
+> the best time to plant a tree was 20 years ago. The second best time is now.
 
 #Academic career
 - [x] Foothill College
