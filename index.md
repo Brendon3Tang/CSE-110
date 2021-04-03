@@ -19,6 +19,10 @@
 - Working out, jogging
 - Hiking, traveling to national parks
 
+#My faviorite animes
+1. One-piece
+2. Attack on Titan
+3. Jujutsu Kaisen
 
 ##Quote Code (for Lab 1)
 Some basic Unix commands:
@@ -29,9 +33,10 @@ rm -d file
 rm -r file
 ```
 
-##Section Links (for Lab 1)
-[Link to my personal introduction](Who am I )
+##Relative Links (for Lab 1)
+[relative link](./README.md)
 
-
+##Section Links (for lab 1)
+[section](#who-am-i)
 
 
