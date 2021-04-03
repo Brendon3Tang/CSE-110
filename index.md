@@ -1,4 +1,4 @@
-![Personal picture](./photo.jpg = 200x)
+![Personal picture](./photo.jpg =200x)
 
 #Who am I
 
